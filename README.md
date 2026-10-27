@@ -1,0 +1,1 @@
+# scriptable-fng-widget
